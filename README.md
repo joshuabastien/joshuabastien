@@ -2,6 +2,7 @@
 <h3 align="center">Jr Software Developer @ Voltaric Inc. | University of Toronto CMS</h3>
 
 - 📫 Reach me at **josh@joshuabastien.com**
+- 🌐 Check out my (Work in progress) website at [**joshuabastien.com**](joshuabastien.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
