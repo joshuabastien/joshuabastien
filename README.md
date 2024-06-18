@@ -1,5 +1,5 @@
 <h1 align="center">It's me, Joshua Bastien</h1>
-<h3 align="center">Jr Software Developer @ Voltaric Inc. | University of Toronto CMS</h3>
+<h3 align="center">Jr Software Developer | University of Toronto CMS</h3>
 
 - 📫 Reach me at **josh@joshuabastien.com**
 - 🌐 Check out my website at <a href="http://joshuabastien.com" target="_blank" rel="noopener noreferrer">joshuabastien.com</a>
